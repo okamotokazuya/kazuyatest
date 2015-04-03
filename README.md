@@ -1,3 +1,6 @@
 # kazuyatest
 test用データ
-test
+te
+
+##メンバー
+*testmember
