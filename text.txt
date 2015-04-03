@@ -1,4 +1,7 @@
 今回は celtisone version1.2.0 という既に動作しているプログラムを最初の状態としてコミットしたので タグ もセットしておきます
+<<<<<<< Updated upstream
 
 タグ ボタンをクリックして、testtesttest
 #スタッシュはどうなる？
+=======
+>>>>>>> Stashed changes
